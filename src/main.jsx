@@ -10,20 +10,6 @@ import { CartProvider } from "./context/CartContext";
 export const server = "https://ecommerce-2025-server-9vrf.onrender.com";
 
 export const categories = [
-  "Jeans",
-  "Down Solder T-Shirt",
-  "T-Shirt",
-  "Half T-Shirt",
-  "Full T-Shirt",
-  "Sport T-Shirt",
-  "Formal Shirt",
-  "Cotton Shirt",
-  "Full Shirt",
-  "Half Shirt",
-  "Lower",
-  "Denim Shirt",
-  "Half Lower",
-  "Full Lower",
   "washing machine",
   "books",
   "jewelry",
